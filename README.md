@@ -13,6 +13,7 @@ Priority is primarily on RPG Maker MV/MZ. (if you have errors with XP, VX, Vx Ac
 - Display the NW.js, Node.js, and Chromium versions of your game.
 - Can be used as compatibility tool in steam for Windows games.
 - Native support for four architectures: x86-64, i386, armhf, and arm64.
+- Script import menu: Import JS scripts or plugins in-game (toggleable with F10).
 
 
  

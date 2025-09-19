@@ -14,11 +14,11 @@ function loadConfig() {
         return {
             lastScript: null,
             uiVisibility: {
-                scriptSelect: true,
-                executeButton: true,
+                scriptSelect: false,
+                executeButton: false,
                 disableexec: true,
                 disablenet: false,
-                resultDisplay: true
+                resultDisplay: false
             }
         };
     }
